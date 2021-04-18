@@ -1,17 +1,9 @@
 # Capstone2
+Machine Learning:Supervised - Predicting Used Car Listing Price on Craigslist.org
+
+Author - Rob Harris 4/21
 
 **Abstract:**
-Capstone 2 - Supervised Learning: Predicting Used Car Listing Prices
-Robert L Harris
-4/14/21
-The dataset of interest was found on Kaggle.com. It is composed of vehicles for sale on Craigslist.com compiled by Austin Reese. The dataset has approximately 500k listings throughout the USA. My computer was unable to download the entire csv file(267MB) do to hardware limitations. Therefore, the file was split into 46 separate files having 10K listings apiece. A looping algorithm was used to load in multiple files for investigation purposes. The dataset was then filtered to only look at California listings. Those listings were stored on 5 of the 46 files (vehicles_2.csv - vehicles_6.csv). While California was the state of interest, the code could be easily adjusted to accommodate any state of interest. One could even adjust it per generalized region (NW, W, SW, etc...).
-
-**Task:**
-Write a Supervised Learning model to predict the appropriate asking price of an automobile for sale on Craigslist.com. Our investigation will use California as the testing ground, but the model could be easily adjusted to look at any other state or region as stated earlier.
-
-Capstone 2 - Supervised Learning: Predicting Used Car Listing Prices
-Robert L Harris
-4/14/21
 The dataset of interest was found on Kaggle.com. It is composed of vehicles for sale on Craigslist.com compiled by Austin Reese. The dataset has approximately 500k listings throughout the USA. My computer was unable to download the entire csv file(267MB) do to hardware limitations. Therefore, the file was split into 46 separate files having 10K listings apiece. A looping algorithm was used to load in multiple files for investigation purposes. The dataset was then filtered to only look at California listings. Those listings were stored on 5 of the 46 files (vehicles_2.csv - vehicles_6.csv). While California was the state of interest, the code could be easily adjusted to accommodate any state of interest. One could even adjust it per generalized region (NW, W, SW, etc...).
 
 **Task:**
